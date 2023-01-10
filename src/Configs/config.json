@@ -1,0 +1,26 @@
+{
+    "bot": {
+        "token": "OTk5ODMxMjQ3NDM2MTI4Mzk4.GZ5LNU.KZn6zGbdYvg9macbDespZDfYqU6Do0N1p0yXFo",
+        "guild_id": "918905027517612052"
+    },
+    "mySQL": {
+        "host": "116.202.134.139",
+        "port": 3306,
+        "username": "tomsozxy_dev",
+        "password": "4IV=!IDGr98.",
+        "database": "tomsozxy_dev"
+    },
+    "panel": {
+        "url": "https://dev-panel.tomsoz.xyz",
+        "company_name": "Tomsoz's Development"
+    },
+    "feature_limitations": {
+        "add_role_on_register": false,
+        "admin_role_based": false
+    },
+    "features": {
+        "register_role_id": "",
+        "admin_role_ids": [],
+        "admin_api_key": ""
+    }
+}
